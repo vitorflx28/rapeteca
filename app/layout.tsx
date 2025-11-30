@@ -13,10 +13,10 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: "Rapeteca Day | 18 de Abril de 2026",
+  title: "Rapeteca",
   description: "Contagem regressiva para o Rapeteca Day",
   openGraph: {
-    title: "Rapeteca Day | 18 de Abril de 2026",
+    title: "Rapeteca",
     description: "Contagem regressiva para o Rapeteca Day",
     type: "website",
     locale: "pt_BR",
@@ -24,14 +24,14 @@ export const metadata: Metadata = {
       {
         url: "/opengraph-image.jpg",
         width: 1200,
-        height: 1200,
-        alt: "Rapeteca Day",
+        height: 630,
+        alt: "Rapeteca",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Rapeteca Day | 18 de Abril de 2026",
+    title: "Rapeteca",
     description: "Contagem regressiva para o Rapeteca Day",
     images: ["/opengraph-image.jpg"],
   },
