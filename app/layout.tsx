@@ -14,10 +14,8 @@ const playfair = Playfair_Display({
 
 export const metadata: Metadata = {
   title: "Rapeteca",
-  description: "Contagem regressiva para o Rapeteca Day",
   openGraph: {
     title: "Rapeteca",
-    description: "Contagem regressiva para o Rapeteca Day",
     type: "website",
     locale: "pt_BR",
     images: [
@@ -32,7 +30,6 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Rapeteca",
-    description: "Contagem regressiva para o Rapeteca Day",
     images: ["/opengraph-image.jpg"],
   },
   icons: {
